@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+  <script src="../js/TableUser.js"></script>
+  <link rel="stylesheet" href="../css/TableUser.css">
+  <title>UserProfile</title>
+</head>
+<body>
+<h1>USER PROFILE</h1>
+<h1 type="text" id="currentTime">
+</h1>
+
+<table id="table">
+  <tr>
+    <th>NAME</th>
+    <th>ObjectID</th>
+    <th>Coin </th>
+    <th>Admin</th>
+    <th>R.No</th>
+    <th>Paytm</th>
+    <th>Date</th>
+  </tr>
+</table>
+<script>
+var myVar = setInterval(myTimer, 1000);
+function myTimer(){
+var today = new Date();
+var time = today.getHours() + ":" + today.getMinutes() + ":" + today.getSeconds();
+  document.getElementById("currentTime").innerHTML = time;
+}
+</script>
+
+</body>
+</html>

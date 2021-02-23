@@ -1,0 +1,19 @@
+{
+	"script block":false,
+	"Review":null,
+	"piano":{
+		"minimumScore":4820,
+		"maximumScore":4830
+	},
+	"miniGame":{
+		"minimumScore":200000,
+		"maximumScore":280000
+	},
+	"time":{
+		"LuckyDraw":[10,15,20],
+		"LuckyNumber":[15,20],
+		"miniGame":10,
+		"piano":10
+	}
+
+}

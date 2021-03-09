@@ -16,13 +16,13 @@
 	},
 	
 	"piano":{
-		"high":7050,
+		"high":27050,
 		"Low" :4830
 	},
 	
 	"minigame":{
 		"high":4000000,
-		"Low" :400000
+		"Low" :100000
 	},
 	
 	"url":"https://goodluck2021.000webhostapp.com/TableData.php"

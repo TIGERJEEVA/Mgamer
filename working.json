@@ -10,8 +10,8 @@
 	"working":{
 		"piano": true,
 		"minigame":true,
-		"luckyDrow":true,
-		"luckyNumber":true,
+		"luckyDrow":false,
+		"luckyNumber":false,
 		"videoCoin":true
 	},
 	
@@ -21,7 +21,7 @@
 	},
 	
 	"minigame":{
-		"high":4000000,
+		"high":85000000,
 		"Low" :100000
 	},
 	

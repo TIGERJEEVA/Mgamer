@@ -5,13 +5,15 @@
 	
 	"blockUser":["Rejected"],
 	
+	
+	
 	"higherPasscode":"556677",
 	
 	"working":{
 		"piano": true,
 		"minigame":true,
-		"luckyDrow":false,
-		"luckyNumber":false,
+
+
 		"videoCoin":true
 	},
 	

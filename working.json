@@ -1,6 +1,6 @@
 {
 	"version": "004",
-	"block": false,
+	"block": true,
 	"Review":"ILLIGAL ACTIVITY FOUND PLEASE CONTACT OUR ADMIN",
 	
 	"blockUser":["Rejected"],

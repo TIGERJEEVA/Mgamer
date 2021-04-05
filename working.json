@@ -1,6 +1,6 @@
 {
 	"version": "004",
-	"block": true,
+	"block": false,
 	"Review":"ILLIGAL ACTIVITY FOUND PLEASE CONTACT OUR ADMIN",
 	
 	"blockUser":["Rejected"],
@@ -9,8 +9,8 @@
 	
 	"working":{
 		"videoCoin":true,
-		"piano": true,
-		"minigame":true
+		"piano": false,
+		"minigame":false
 	},
 	
 	"url":"https://goodluck2021.000webhostapp.com/TableData.php"
